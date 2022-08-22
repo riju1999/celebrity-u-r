@@ -1,3 +1,5 @@
 keras
 sklearn
 streamlit 
+tensorflow
+keras_vggface
